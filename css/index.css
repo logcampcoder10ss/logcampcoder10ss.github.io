@@ -90,12 +90,12 @@ header {
 
 #section-four {
   background-color: #0099cc;
-  background-image: url();
+  background-image: url(http://upload.wikimedia.org/wikipedia/commons/b/bf/Luther_College_Farm_Decorah_IA_061.jpg);
 }
 
 #section-five {
   background-color: #cc0000;
-  background-image: url(http://upload.wikimedia.org/wikipedia/commons/b/bf/Luther_College_Farm_Decorah_IA_061.jpg);
+  background-image: url(../images/tree_bark.png);
 }
 
 .tree {
